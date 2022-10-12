@@ -23,7 +23,7 @@ export class UserDataComponent implements OnInit {
 
 
 
-  userData={}
+  userData:any={}
   ngOnInit(): void {
   }
 
